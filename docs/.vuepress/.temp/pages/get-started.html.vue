@@ -1,5 +1,5 @@
-<template><div><h1 id="get-started" tabindex="-1"><a class="header-anchor" href="#get-started"><span>Get Started</span></a></h1>
-<p>This is a normal page, which contains VuePress basics.</p>
+<template><div><h1 id="get-started11333" tabindex="-1"><a class="header-anchor" href="#get-started11333"><span>Get Started11333</span></a></h1>
+<p>This is a normal p333age, which contains VuePress basics.</p>
 <h2 id="pages" tabindex="-1"><a class="header-anchor" href="#pages"><span>Pages</span></a></h2>
 <p>You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.</p>
 <p>See <a href="https://vuejs.press/guide/page.html#routing" target="_blank" rel="noopener noreferrer">routing<ExternalLinkIcon/></a> for more details.</p>
