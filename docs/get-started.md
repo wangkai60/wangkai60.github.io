@@ -1,6 +1,6 @@
-# Get Started11333
+# Get Started
 
-This is a normal p333age, which contains VuePress basics.
+This is a normal page, which contains VuePress basics.
 
 ## Pages
 
